@@ -6,3 +6,5 @@
 [k1=someStuff](http://localhost:8080/hello.action?k1=someStuff)   
 [k2=something](http://localhost:8080/hello.action?k2=something)   
 [none](http://localhost:8080/hello.action)
+
+不要学 Struts 1 啦, [这里](http://struts.apache.org/getting-started/)有不错的 Struts 2 示例
